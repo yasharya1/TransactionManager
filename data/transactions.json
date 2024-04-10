@@ -1,0 +1,18 @@
+{"transactions": [
+    {
+        "date": "2004-10-22",
+        "amount": 900,
+        "description": "bread",
+        "id": 1,
+        "type": "EXPENSE",
+        "category": "Food"
+    },
+    {
+        "date": "2009-10-14",
+        "amount": 900,
+        "description": "Parttime",
+        "id": 2,
+        "type": "INCOME",
+        "category": "Salary"
+    }
+]}

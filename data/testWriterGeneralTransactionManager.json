@@ -1,0 +1,18 @@
+{"transactions": [
+    {
+        "date": "2022-01-01",
+        "amount": 200,
+        "description": "Dinner",
+        "id": 1,
+        "type": "EXPENSE",
+        "category": "Food"
+    },
+    {
+        "date": "2022-01-15",
+        "amount": 1500,
+        "description": "Freelance",
+        "id": 2,
+        "type": "INCOME",
+        "category": "Job"
+    }
+]}
